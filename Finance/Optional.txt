@@ -1,0 +1,7 @@
+Personal Touch
+
+Allow users to change password # DONE
+Allow users to add cash
+Add password complexity requirements
+
+API_KEY=pk_85e93ae9d9f64c21b17b9de49442acd3
